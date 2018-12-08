@@ -1,0 +1,12 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+n1=input()
+myset1= set()
+for i in range(eval(n1)):
+    myset1.add(input())
+
+
+n2=input()
+myset2= set()
+for i in range(0,n2):
+    myset2.add(input())
+
